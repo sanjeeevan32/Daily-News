@@ -23,7 +23,7 @@ setProgress = (progress) => {
   render() {
     return (
       <div>
-        <Router>
+       <Router>
         <Navbar/>
         <LoadingBar
         height={3}
@@ -41,7 +41,7 @@ setProgress = (progress) => {
           <Route exact  path="/general"> <News  setProgress={this.setProgress}   keys="general" pageSize={this.pageSize} country="in" category="general"/></Route>
           <Route exact  path="/technology"> <News  setProgress={this.setProgress}   keys="technology"pageSize={this.pageSize} country="in" category="technology"/></Route>
           </Switch>
-        </Router>
+    </Router>
       </div>
     )
   }
