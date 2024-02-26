@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Daily-News/static/css/main.7bcc8a58.chunk.css",
-    "main.js": "/Daily-News/static/js/main.6166baa4.chunk.js",
-    "main.js.map": "/Daily-News/static/js/main.6166baa4.chunk.js.map",
-    "runtime~main.js": "/Daily-News/static/js/runtime~main.76afa240.js",
-    "runtime~main.js.map": "/Daily-News/static/js/runtime~main.76afa240.js.map",
-    "static/js/2.bd811bc9.chunk.js": "/Daily-News/static/js/2.bd811bc9.chunk.js",
-    "static/js/2.bd811bc9.chunk.js.map": "/Daily-News/static/js/2.bd811bc9.chunk.js.map",
-    "static/js/3.62d5139d.chunk.js": "/Daily-News/static/js/3.62d5139d.chunk.js",
-    "static/js/3.62d5139d.chunk.js.map": "/Daily-News/static/js/3.62d5139d.chunk.js.map",
-    "index.html": "/Daily-News/index.html",
-    "precache-manifest.b525b6ea9380749eb66165cf4f5a6b1d.js": "/Daily-News/precache-manifest.b525b6ea9380749eb66165cf4f5a6b1d.js",
-    "service-worker.js": "/Daily-News/service-worker.js",
-    "static/css/main.7bcc8a58.chunk.css.map": "/Daily-News/static/css/main.7bcc8a58.chunk.css.map",
-    "static/media/loading.gif.gif": "/Daily-News/static/media/loading.gif.f841c145.gif"
+    "main.css": "/News-app/static/css/main.7bcc8a58.chunk.css",
+    "main.js": "/News-app/static/js/main.edbeba7a.chunk.js",
+    "main.js.map": "/News-app/static/js/main.edbeba7a.chunk.js.map",
+    "runtime~main.js": "/News-app/static/js/runtime~main.50b92a98.js",
+    "runtime~main.js.map": "/News-app/static/js/runtime~main.50b92a98.js.map",
+    "static/js/2.bd811bc9.chunk.js": "/News-app/static/js/2.bd811bc9.chunk.js",
+    "static/js/2.bd811bc9.chunk.js.map": "/News-app/static/js/2.bd811bc9.chunk.js.map",
+    "static/js/3.62d5139d.chunk.js": "/News-app/static/js/3.62d5139d.chunk.js",
+    "static/js/3.62d5139d.chunk.js.map": "/News-app/static/js/3.62d5139d.chunk.js.map",
+    "index.html": "/News-app/index.html",
+    "precache-manifest.06253e1622d20355b2c246a987ecfe6d.js": "/News-app/precache-manifest.06253e1622d20355b2c246a987ecfe6d.js",
+    "service-worker.js": "/News-app/service-worker.js",
+    "static/css/main.7bcc8a58.chunk.css.map": "/News-app/static/css/main.7bcc8a58.chunk.css.map",
+    "static/media/loading.gif.gif": "/News-app/static/media/loading.gif.f841c145.gif"
   }
 }
