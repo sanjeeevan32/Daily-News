@@ -1,13 +1,11 @@
 
 import './App.css';
 import React, { Component } from 'react'
-import Navbar from './components/Navbar';
-import News from  './components/News';
-import {
-  BrowserRouter as Router,
-  Switch, 
-  Route,
-} from "react-router-dom";
+import Navbar from './components/navbar';
+import News from  './components/news';
+
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
+
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
@@ -32,7 +30,7 @@ setProgress = (progress) => {
        
       />
        <Switch>
-          <Route exact  path="/" >  <News  setProgress={this.setProgress}    keys="general" pageSize={this.pageSize} country="in" category="general"/></Route>
+          <Route exact  path="/generel" >  <News  setProgress={this.setProgress}    keys="general" pageSize={this.pageSize} country="in" category="general"/></Route>
           <Route exact  path="/business"> <News  setProgress={this.setProgress}  keys="business" pageSize={this.pageSize} country="in" category="business"/></Route>
           <Route exact  path="/entertainment"> <News  setProgress={this.setProgress}   keys="entertainment" pageSize={this.pageSize} country="in" category="entertainment"/></Route>
           <Route exact  path="/health"> <News  setProgress={this.setProgress}  keys="health" pageSize={this.pageSize} country="in" category="health"/></Route>
